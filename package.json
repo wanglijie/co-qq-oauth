@@ -1,6 +1,6 @@
 {
   "name": "co-qq-oauth",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Co版qq公共平台OAuth",
   "main": "index.js",
   "scripts": {
