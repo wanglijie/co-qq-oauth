@@ -1,5 +1,3 @@
-co-qq-oauth
-===============
 QQ OAuth for ES6。微博公共平台OAuth SDK. [api](http://wiki.open.qq.com/wiki/website/OAuth2.0%E7%AE%80%E4%BB%8B)
 
 fork from [co-wechat-oauth](https://github.com/node-webot/co-wechat-oauth)
