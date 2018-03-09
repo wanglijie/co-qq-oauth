@@ -5,7 +5,8 @@ fork from [co-wechat-oauth](https://github.com/node-webot/co-wechat-oauth)
 
 ## 模块状态
 
-- [![NPM version](https://badge.fury.io/js/co-qq-oauth.png)](http://badge.fury.io/js/co-qq-oauth)
+[![NPM version](https://badge.fury.io/js/co-qq-oauth.png)](http://badge.fury.io/js/co-qq-oauth)
+[![Build Status](https://travis-ci.org/wanglijie/co-qq-oauth.svg?branch=master)](https://travis-ci.org/wanglijie/co-qq-oauth)
 
 ## 功能列表
 - OAuth授权
